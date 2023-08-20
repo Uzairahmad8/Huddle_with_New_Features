@@ -42,10 +42,17 @@ body {
 .navLink {
   padding: 16px 65px;
   color: #000;
+  font-weight: bold;
   background-color: #fff;
   text-decoration: none;
   border: 1px solid transparent;
   border-radius: 30px;
+}
+
+.navLink:hover{
+  color:#fff;
+  background-color: rgb(255, 82, 193);
+  
 }
 
 .productInformationContainer {
