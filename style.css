@@ -47,6 +47,7 @@ body {
   text-decoration: none;
   border: 1px solid transparent;
   border-radius: 30px;
+  transition: all 0.5s;
 }
 
 .navLink:hover{
