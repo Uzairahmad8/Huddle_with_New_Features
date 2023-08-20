@@ -91,14 +91,14 @@ body {
   color: #fff;
   cursor: pointer;
   border-radius: 30px;
-  border: none;
+  border: 1px solid transparent;
   transition: all 0.5s;
 }
 
 .informationCTA:hover{
   background-color: #fff;
   color: #000;
-  
+  border: 1px solid black;
 }
 
 .sameSection {
